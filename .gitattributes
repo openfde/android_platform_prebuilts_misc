@@ -1,0 +1,8 @@
+common/robolectric/android-all/android-all-13-robolectric-9030017.jar filter=lfs diff=lfs merge=lfs -text
+common/robolectric/android-all/android-all-14-robolectric-10818077.jar filter=lfs diff=lfs merge=lfs -text
+common/robolectric/android-all/android-all-9-robolectric-4913185-2.jar filter=lfs diff=lfs merge=lfs -text
+common/robolectric/android-all/android-all-12-robolectric-7732740.jar filter=lfs diff=lfs merge=lfs -text
+common/robolectric/android-all/android-all-8.1.0-robolectric-r4458339.jar filter=lfs diff=lfs merge=lfs -text
+common/robolectric/android-all/android-all-12.1-robolectric-8229987.jar filter=lfs diff=lfs merge=lfs -text
+common/robolectric/android-all/android-all-10-robolectric-5803371.jar filter=lfs diff=lfs merge=lfs -text
+common/robolectric/android-all/android-all-11-robolectric-6757853.jar filter=lfs diff=lfs merge=lfs -text
